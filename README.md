@@ -1,7 +1,7 @@
 # Path-finding-visualization
 
 # A star Path-Finding
-Astar Path Finding Visualization using Pygame.
+Astar Path Finding Visualization using Pygame.<br>
 Use mouse to create walls and press enter to start.
 
 # A Breadth First Search Path Finding(Shortest path)
