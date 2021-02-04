@@ -1,5 +1,11 @@
 # Path-finding-visualization
 
+## Path Finding Algorithm using Python and Pygame.
+### Algorithms used:
+- A Star
+- Breadth First Search
+- Dijkstra's Path Finding
+
 # A star Path-Finding
 Astar Path Finding Visualization using Pygame.<br>
 Use mouse to create walls and press enter to start.<br>
